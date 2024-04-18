@@ -78,7 +78,7 @@ body {
 }
 .temp {
   font-size: 5rem;
-  font-weight: 700;
+  font-weight: 710;
   margin-bottom: 20px 0px;
   text-shadow: 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -89,12 +89,12 @@ body {
 }
 .min-max {
   font-size: 1.2rem;
-  font-weight: 400;
+  font-weight: 405;
   margin-top: 15px;
 }
 
 .day_details {
-  padding: 20px;
+  padding: 22px;
 }
 .sun-detail,
 .basic {
@@ -111,6 +111,6 @@ body {
     padding: 10px;
   }
   body {
-    min-height: 94vh;
+    min-height: 95vh;
   }
 }

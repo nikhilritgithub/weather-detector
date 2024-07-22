@@ -13,7 +13,8 @@ searchInputBox.addEventListener('keypress', (event) => {
 })
 
 
-function getWeatherReport(city) {
+function getWeatherReport(city) 
+{
     fetch(`${weatherApi.baseUrl}?q=${city}&appid=${weatherApi.key}&units=metric`)     
         .then(weather => {   
             return weather.json(); 
@@ -133,7 +134,8 @@ function getIconClass(classarg) {
     }
 }
 
-function reset() {
+function reset()
+{
     let input = document.getElementById('input-box');
     input.value = "";
 }

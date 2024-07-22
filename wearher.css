@@ -16,7 +16,7 @@ body {
 
 .header h4 {
   color: #da1e4e;
-  font-weight: 700;
+  font-weight: 720;
   font-size: 2.4rem;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
@@ -49,7 +49,7 @@ body {
   color: #e4603a;
   font-weight: 500;
   border: none;
-  font-size: 1.7rem;
+  font-size: 1.6rem;
   border-radius: 10px;
   padding: 10px;
   text-align: center;
